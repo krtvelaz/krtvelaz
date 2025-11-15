@@ -3,7 +3,7 @@
 
 ### 👋 Hello, I'm Cristian Velasquez.
 
-I'm a Full Stack Software Developer with 6 years of experience building web applications, mobile solutions, and data analytics projects.
+I'm a Full Stack Software Developer with 8 years of experience building web applications, mobile solutions, and data analytics projects.
 
 ### Some of my work includes:
 
