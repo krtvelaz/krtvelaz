@@ -1,27 +1,38 @@
+
+---
+
 ### 👋 Hello, I'm Cristian Velasquez.
 
-I'm a Full Stack Software Developer with 6 years of experience of development and data analytics projects
+I'm a Full Stack Software Developer with 6 years of experience building web applications, mobile solutions, and data analytics projects.
 
-### Some of my works include:
+### Some of my work includes:
 
-- Project Management Unit (PMU) for Access Control to General Control Panels from Different Sources (Vue, PHP Laravel, Docker, Azure DevOps)
-- Event Management, Blog, and Event Calendar Portal for Innovation Contests in Medellin (React, AdonisJS, Docker, RHO, Azure DevOps)
-- Portal for Managing WiFi Connection Delivery through a Captive Portal (PHP Laravel)
-- Application for the Administration of Banking Resources and Financial Consolidation
-- Medellin District City Hall, Antioquia, Colombia (Next.js, Nest.js, Docker, RHO)
-- Application for Data Collection D2D for Advanced Analytics (Vue, Django, Docker, K8s)
-- Mobile Application for Client Control and Management (Ionic, Angular 16, iOS, Android, PHP)
-- Mobile Application for Inventory Management (Ionic, Angular 16, Python - Django)
+* **Project Management Unit (PMU)** for Access Control to General Control Panels from Multiple Sources (Vue, Laravel PHP, Docker, Azure DevOps)
+* **Innovation Contests Portal**: Event management, blog, and calendar for Medellín (React, AdonisJS, Docker, RHO, Azure DevOps)
+* **WiFi Captive Portal** for connection management (PHP Laravel)
+* **Banking Resources Administration & Financial Consolidation** platform
+* Applications for the **Medellín District City Hall**, Antioquia, Colombia (Next.js, Nest.js, Docker, RHO)
+* **D2D Data Collection App** for Advanced Analytics (Vue, Django, Docker, K8s)
+* **Mobile App for Client Control & Management** (Ionic, Angular 16, iOS, Android, PHP)
+* **Mobile Inventory Management App** (Ionic, Angular 16, Python/Django)
 
-**Note:** Please be aware that many of the projects listed above are confidential, and repository access and additional project details are not publicly available.
+**Note:** Many of the projects above are confidential; repositories and additional details are not publicly accessible.
 
-### Some of services I offer:
+### Services I offer:
 
-- Design, Implementation, Support, and/or Migration for/to Cloud Applications
-- 1-on-1 Pair Programming for Laravel/Laravel Zero Apps
-- Infrastructure and Compliance Solutions in AWS and Azure Cloud Providers
-- Business Intelligence Services
-- Data Automation Development
+* Design, implementation, support, and migration of cloud applications
+* 1-on-1 Pair Programming for **Laravel/Laravel Zero**, **NestJS**, and **Python Django**
+* Infrastructure and compliance solutions on **AWS** and **Azure**, including:
+
+  * **CloudFormation**, **Terraform**, and Infrastructure as Code (IaC)
+  * Advanced experience with **EKS** and **AKS**
+* **CI/CD pipeline design and automation** (Azure DevOps, GitHub Actions, GitLab CI, ArgoCD)
+* **Database administration** (PostgreSQL, MySQL, MongoDB, Redis)
+* Automation of data workflows and Business Intelligence solutions
+* Full-stack application development with **JavaScript/TypeScript**, **PHP**, **Python**, and **Java**
+
+
+### Languages and Tools:
 
 ### Languages and Tools:
 <!--<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krtvelaz&layout=compact&theme=ayu-mirage&count_private=true&hide_border=true&langs_count=8)</a>-->
@@ -37,7 +48,7 @@ I'm a Full Stack Software Developer with 6 years of experience of development an
 <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /></a> 
 <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /></a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
-<a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" /></a> 
+<a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40" /></a> 
 <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /></a> 
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a> 
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /></a> 
@@ -58,20 +69,34 @@ I'm a Full Stack Software Developer with 6 years of experience of development an
 <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" /></a> 
 <a href="https://www.nginx.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" /></a> 
 </p>
+---
 
+🍷 I love wine   🎶 Passionate about classical music
+🐶 Dog lover   ⛸️ Skating enthusiast
+🎻 I enjoy playing violin and guitar in my free time
 
-🍷 I love wine 🎶 Passionate about classical music 🐶 Adore dogs
-Skating enthusiast 🎻 Violin and guitar player in my free time
-
-With a strong background in web development, mobile applications, and databases, I'm always ready to take on new challenges. My projects range from elegant applications to data analysis solutions. Connect with me, and let's talk tech and passions!
+With strong experience in web development, mobile applications, and database design, I'm always ready to take on new challenges. My work ranges from elegant applications to advanced data analytics solutions.
+Let’s connect and talk tech — and passions!
 
 #WebDevelopment #MobileApps #Databases #DataAnalytics
 
 ---
 
-If you want to work with me or learn more about my experience, feel free to [get in touch](https://www.linkedin.com/in/kristianvelasquez).
+If you'd like to work with me or learn more about my experience, feel free to **[get in touch](https://www.linkedin.com/in/kristianvelasquez)**.
 
-You can also check out my projects, repositories, and contributions on my GitHub profile.
+You can also explore my projects, repositories, and contributions on my GitHub profile.
 
 Happy coding! 🚀
+
 # .github.io
+
+---
+
+### 💼 Currently Working On
+
+I’m currently working at a technology company that serves one of the most recognized banks in Latin America. There, I develop applications for **bank product management** and for **automation of data collection processes**.
+
+I’ve also built applications for **client portfolio administration**, **sales tracking**, and **inventory management** with CRM integrations, achieving **up to 80% automation** of manual workflows across four different companies.
+
+---
+
