@@ -33,8 +33,6 @@ I'm a Full Stack Software Developer with 6 years of experience building web appl
 
 
 ### Languages and Tools:
-
-### Languages and Tools:
 <!--<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krtvelaz&layout=compact&theme=ayu-mirage&count_private=true&hide_border=true&langs_count=8)</a>-->
 <p align="left"> 
 <!-- Base de datos -->
